@@ -1,0 +1,32 @@
+[
+  
+  {
+    "name": "SHOPPING-CART",
+    "desc": "Developed a fully functional and responsive e-commerce shopping cart with seamless management user-friendly UI.",
+    "category": "React",
+    "links": {
+      "view": "https://drive.google.com/file/d/1xEvZ8w3H1u0btSZ38EFcvuy8CeVOvoE4/view?usp=drivesdk",
+      "code": "https://github.com/arjunsinghpal26/SHOPPING-CART"
+    }
+  },
+  {
+    "name": "StudyNotion Education Platform",
+    "desc": " Developed a full-stack EdTech web application that enables users to access online courses, manage learning for educators.",
+    "category": "mern",
+    "links": {
+      "view": "https://studynotion-frontend.vercel.app/",
+      "code": "https://github.com/arjunsinghpal26/StudyNotion-An-Online-Education-Platform"
+    }
+  },
+  {
+    "name": " Electronics E-Commerce Shop ",
+    "desc": "Developed a e-commerce platform for electronics, offering a seamless shopping experience with dynamic product display, secure backend, and real-time data management.",
+    "category": "Next",
+    "links": {
+      "view": "https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS/assets/138793624/a48c092d-1f19-4bae-a480-0b5862630e1c",
+      "code": "https://github.com/arjunsinghpal26/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS"
+    }
+  }
+  
+  
+]
